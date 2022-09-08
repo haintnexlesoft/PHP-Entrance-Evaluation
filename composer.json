@@ -1,0 +1,17 @@
+{
+    "name": "admin/ex03",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Ex03\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngo Thanh Hai",
+            "email": "haint@nexlesoft.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
